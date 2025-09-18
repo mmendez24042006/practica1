@@ -24,6 +24,15 @@
         </header>
         <main>
             <h1>BIENVENIDO A LA PAGINA DE MAURICIO</h1>
+            <div class="card">
+                <img class="card-img-top" src="holder.js/100x180/" alt="Title" />
+                <div class="card-body">
+                    <h4 class="card-title">APLICACIONES WEB</h4>
+                    <p class="card-text">Grado y grupo: 4 "B"</p>
+                    <p class="card-text">        Autor: Mauricio Mendez López</p>
+                </div>
+            </div>
+            
         </main>
         <footer>
             <!-- place footer here -->
