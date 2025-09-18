@@ -1,0 +1,4 @@
+primero si se subieron archivos nuevos hay que descargar con git pull
+despues se sube con git push
+luego para guardar es git add
+luego git commit -m "comentario"
